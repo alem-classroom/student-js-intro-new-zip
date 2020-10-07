@@ -6,11 +6,11 @@ const undef = null
 const nullVar = null
 
 const square = (n) => {
-    // your code here
+    return n * n;
 }
 
 const hello = (name) => {
-    // your code here
+    return "Hello, " + name + "!";
 }
 
 const concat = (strings) => {
